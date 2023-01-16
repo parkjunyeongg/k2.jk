@@ -1,1 +1,1 @@
-#k-digital 2기 자바스크립트
+# k-digital 2기 자바스크립트
